@@ -1,0 +1,13 @@
+Pour installer le site internet sur votre ordinateur sans nécessiter une connexion Internet, vous devez suivre ces étapes :
+
+Tout d'abord, installez XAMPP sur votre ordinateur.
+
+Une fois XAMPP installé, ouvrez votre navigateur web et saisissez "localhost/phpmyadmin" dans la barre d'adresse. Appuyez sur "Entrée" pour accéder à la nouvelle page.
+
+Sur la page de phpMyAdmin, cliquez sur l'onglet "Importer".
+
+Dans la section d'importation, sélectionnez le fichier nommé "loginastral.sql".
+
+Cliquez sur le bouton "Installer".
+
+Ces étapes devraient permettre d'installer la base de données localement sur votre ordinateur.
